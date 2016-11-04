@@ -17,7 +17,7 @@ Deluxe with hash browns, chili cheese fries, and one poached egg."
     $ yarn install
     $ yarn run setup
 
-After you've tweaked `config.json` with the correct GitHub credentials, do
+After you've tweaked `config.json` with the [correct GitHub credentials](https://github.com/settings/tokens), do
 
     $ gulp
 
