@@ -9,6 +9,7 @@
   "author": "Dan Bergren <dan@heymrbass.com>",
   "license": "MIT",
   "dependencies": {
+    "github": "^6.0.2",
     "global": "^4.3.1",
     "gulp": "^3.9.1"
   },

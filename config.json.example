@@ -1,4 +1,7 @@
 {
   "username": "",
-  "token": ""
+  "token": "",
+  "repositories": [
+    "bergren2/gulp-github"
+  ]
 }
